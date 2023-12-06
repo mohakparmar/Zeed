@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SearchUserProductsVC" customModule="Zeed" customModuleProvider="target">
+            <connections>
+                <outlet property="collectionView" destination="8bw-Lq-aoj" id="lqN-WJ-BxL"/>
+                <outlet property="txtSearch" destination="onW-vm-fSg" id="cJu-VB-fVu"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="8bw-Lq-aoj">
+                    <rect key="frame" x="0.0" y="129" width="393" height="689"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="ASc-14-bAN">
+                        <size key="itemSize" width="128" height="128"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="JHV-Dx-wCi"/>
+                        <outlet property="delegate" destination="-1" id="dkg-bC-Tgk"/>
+                    </connections>
+                </collectionView>
+                <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Search" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="onW-vm-fSg">
+                    <rect key="frame" x="15" y="74" width="363" height="40"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="eaw-Ex-eUC"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                    <textInputTraits key="textInputTraits" returnKeyType="search"/>
+                    <connections>
+                        <action selector="valueEditingChange:" destination="-1" eventType="editingChanged" id="ovI-2f-5z6"/>
+                        <outlet property="delegate" destination="-1" id="IcZ-pr-zmi"/>
+                    </connections>
+                </textField>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" red="0.96862745100000003" green="0.99215686270000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="onW-vm-fSg" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="15" id="5uc-ka-Tat"/>
+                <constraint firstItem="onW-vm-fSg" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="15" id="F42-DR-wEm"/>
+                <constraint firstItem="8bw-Lq-aoj" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="WUC-d7-N1k"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="onW-vm-fSg" secondAttribute="trailing" constant="15" id="WhG-ng-n4e"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="8bw-Lq-aoj" secondAttribute="trailing" id="XJn-hb-ge9"/>
+                <constraint firstItem="8bw-Lq-aoj" firstAttribute="top" secondItem="onW-vm-fSg" secondAttribute="bottom" constant="15" id="aRq-zY-b3n"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="8bw-Lq-aoj" secondAttribute="bottom" id="mkh-hD-DpN"/>
+            </constraints>
+            <point key="canvasLocation" x="140" y="20"/>
+        </view>
+    </objects>
+</document>

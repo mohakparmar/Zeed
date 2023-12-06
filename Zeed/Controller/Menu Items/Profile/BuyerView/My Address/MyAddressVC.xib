@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MyAddressVC" customModule="Zeed" customModuleProvider="target">
+            <connections>
+                <outlet property="btnAddAddress" destination="lPu-Xu-AHV" id="7ha-5R-OZO"/>
+                <outlet property="collectionAdderess" destination="be0-a8-cXZ" id="LeR-vd-q5C"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lPu-Xu-AHV">
+                    <rect key="frame" x="0.0" y="528" width="320" height="40"/>
+                    <color key="backgroundColor" red="0.0" green="0.49019607840000001" blue="0.64705882349999999" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="Add">
+                        <color key="titleColor" name="outgoingAudioMessageTint"/>
+                    </state>
+                    <connections>
+                        <action selector="btnAddAddressClick:" destination="-1" eventType="touchUpInside" id="0FQ-BG-aBJ"/>
+                    </connections>
+                </button>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="be0-a8-cXZ">
+                    <rect key="frame" x="10" y="10" width="300" height="508"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="lAV-rd-WgN">
+                        <size key="itemSize" width="128" height="128"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="hNa-eb-kNW"/>
+                        <outlet property="delegate" destination="-1" id="wuj-nD-BuD"/>
+                    </connections>
+                </collectionView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="lPu-Xu-AHV" firstAttribute="height" secondItem="i5M-Pr-FkT" secondAttribute="height" multiplier="0.0704225" id="2zh-gy-8W1"/>
+                <constraint firstItem="lPu-Xu-AHV" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="IYN-TY-otW"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="be0-a8-cXZ" secondAttribute="trailing" constant="10" id="QJs-ci-vQA"/>
+                <constraint firstItem="lPu-Xu-AHV" firstAttribute="bottom" secondItem="fnl-2z-Ty3" secondAttribute="bottom" id="Sby-9R-ptw"/>
+                <constraint firstItem="lPu-Xu-AHV" firstAttribute="top" secondItem="be0-a8-cXZ" secondAttribute="bottom" constant="10" id="dMA-HE-wN3"/>
+                <constraint firstItem="be0-a8-cXZ" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="10" id="pWK-l6-FoE"/>
+                <constraint firstItem="be0-a8-cXZ" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="10" id="tMZ-ps-aNG"/>
+                <constraint firstItem="lPu-Xu-AHV" firstAttribute="trailing" secondItem="fnl-2z-Ty3" secondAttribute="trailing" id="zVN-Ki-V8C"/>
+            </constraints>
+            <point key="canvasLocation" x="139" y="88"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="outgoingAudioMessageTint">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

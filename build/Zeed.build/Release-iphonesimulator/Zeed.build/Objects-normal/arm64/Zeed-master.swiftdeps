@@ -1,0 +1,395 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "141000e8e83cfa21ac50a98079cb6f2524da0a49a3dbf851b410a01161425b17"
+build_start_time: [1675356041, 489025115]
+build_end_time: [1675356041, 537307024]
+inputs:
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEEventsObserver.swift": !dirty [1639528309, 503389120]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEVideoConstraints.swift": !dirty [1639528309, 503526687]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEVideoContainer.swift": !dirty [1639528309, 505106449]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEVideoLayout.swift": !dirty [1639528309, 505330801]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEView.swift": !dirty [1639528309, 505574703]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/DimensionCell.swift": !dirty [1639528309, 505777835]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/VideoSession.swift": !dirty [1639528309, 505983829]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/VideoView.swift": !dirty [1639528309, 506187438]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AgoraExtension.swift": !dirty [1639528309, 506406784]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/FileCenter.swift": !dirty [1639528309, 506605386]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/KeyCenter.swift": !dirty [1639528309, 506883621]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/Settings.swift": !dirty [1639528309, 507127523]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/StatisticsInfo.swift": !dirty [1639528309, 507391452]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatMessageTCell.swift": !dirty [1639528309, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatObject.swift": !dirty [1667439566, 351349830]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift": !dirty [1671902350, 879552364]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/GroupViewController.swift": !dirty [1651924349, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ImageObject.swift": !dirty [1672931270, 887572765]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/KAudioRecorder.swift": !dirty [1639528309, 902080535]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/UploadImageObject.swift": !dirty [1639528309, 902238130]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/Utility.swift": !dirty [1666670087, 44568061]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/ChatList/ChatListObject.swift": !dirty [1639528309, 903526782]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/ChatList/ChatListTCell.swift": !dirty [1639528309, 903746604]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/ChatList/ChatListViewController.swift": !dirty [1660220042, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/CountryObject.swift": !dirty [1639528309, 905166625]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/FollowingListViewController.swift": !dirty [1671902335, 17359018]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/MenuTCell.swift": !dirty [1639528309, 905606746]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/SettingObject.swift": !dirty [1639528309, 905930519]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/SettingViewController.swift": !dirty [1648220843, 290970087]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/TextCCell.swift": !dirty [1639528309, 906431674]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/UserObject.swift": !dirty [1642470487, 838938474]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/WSManage.swift": !dirty [1675218372, 94129085]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Auth/SignInController.swift": !dirty [1675220854, 131169795]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Auth/SignUpController.swift": !dirty [1666321070, 420017242]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutController.swift": !dirty [1672360562, 400014162]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutSelectAddressController.swift": !dirty [1652411828, 191354513]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartController.swift": !dirty [1671760984, 813447713]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartThankyouController.swift": !dirty [1668616405, 60928106]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/CommentController.swift": !dirty [1671902527, 914660930]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingController.swift": !dirty [1673574113, 739824533]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingLiveBiddersController.swift"
+  : !dirty [1671902492, 445547342]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingLiveController.swift": !dirty [1663642274, 280903816]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingOldLiveController.swift": !dirty [1660999271, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingPayController.swift": !dirty [1661583820, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingStories.swift": !dirty [1667043645, 363728046]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingStoryController.swift": !dirty [1648974724, 199041366]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingThankyouController.swift": !dirty [1669750188, 938720703]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/ChannelViewController.swift": !dirty [1639528309, 910694360]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/SingleBiddingController.swift": !dirty [1671902478, 694221496]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/StoriesViewModel.swift": !dirty [1639528309, 911048650]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/AddVariantController.swift": !dirty [1653137517, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/AddVariantVC/AddVariantTCell/AddVariantTCell.swift"
+  : !dirty [1665072614, 211252689]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/AddVariantVC/AddVariantVC.swift": !dirty [1674277181, 845436573]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/BecomeSellerController.swift": !dirty [1665538585, 197006464]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/CreateController.swift": !dirty [1673575130, 431477069]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/SubcategoryController/SubCategoryTCell/SubCategoryTCell.swift"
+  : !dirty [1669740327, 215010166]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/SubcategoryController/SubcategoryController.swift"
+  : !dirty [1669740408, 5404233]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Home/HomeController.swift": !dirty [1672364319, 292599201]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Home/MediaViewerController.swift": !dirty [1639528309, 912106275]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Home/SinglePostController.swift": !dirty [1674277939, 985145]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/LikedViewedController.swift"
+  : !dirty [1652409716, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/AddAddressController.swift"
+  : !dirty [1661308631, 811627388]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/AddAddressVC.swift"
+  : !dirty [1662899381, 782068014]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/MapviewViewController.swift"
+  : !dirty [1652409393, 441062450]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/MyAddressController.swift"
+  : !dirty [1652408616, 899201154]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/MyAddressVC.swift"
+  : !dirty [1666696220, 694055080]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/SelectLocationController.swift"
+  : !dirty [1642223496, 223173618]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/BiddingLostController.swift"
+  : !dirty [1652407086, 974454879]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/BiddingOnGoingController.swift"
+  : !dirty [1652407098, 930231094]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/BiddingWonController.swift"
+  : !dirty [1652407098, 563637256]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/MyBiddingController.swift"
+  : !dirty [1652407249, 809644699]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyOrderController.swift": !dirty [1660614466, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyOrderDetailController.swift"
+  : !dirty [1653118323, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift"
+  : !dirty [1675222589, 755512237]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/ProfileBuyerViewController.swift"
+  : !dirty [1675221451, 934125423]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/SettingsController.swift"
+  : !dirty [1675222181, 412084579]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/SupportViewController.swift"
+  : !dirty [1675222455, 644663333]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/WalletController.swift": !dirty [1675220580, 667645692]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/WalletTransferController.swift"
+  : !dirty [1661582099, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/EditMyProfileController.swift": !dirty [1651924363, 652814865]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/EditMyProfileController1.swift": !dirty [1666321175, 357583999]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/MyProfileController.swift": !dirty [1671890925, 561770677]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/ProfileContainer.swift": !dirty [1671892907, 774488449]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/SellerView/ProfileSellerViewController.swift"
+  : !dirty [1672362100, 690994262]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/CategoryCCell.swift": !dirty [1653611633, 120380401]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/ExploreController.swift": !dirty [1667045901, 407009840]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchContainer.swift": !dirty [1671760320, 283961772]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchProductsResultsController.swift"
+  : !dirty [1667046047, 25671958]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchResultContainer.swift": !dirty [1667048116, 227368354]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchUserResultsController.swift": !dirty [1672359919, 835196971]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Message/MessagesController.swift": !dirty [1651935072, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/MyAuctions/MyAuctionsCompletedController.swift": !dirty [1639528309, 917352437]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/MyAuctions/MyAuctionsContainer.swift": !dirty [1639528309, 917499780]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/MyAuctions/MyAuctionsOnGoingController.swift": !dirty [1639528309, 917631864]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Notification/NotificationActivitiesController.swift": !dirty [1644801847, 493309974]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Notification/NotificationContainer.swift": !dirty [1639528309, 918021678]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Notification/NotificationRequestsController.swift": !dirty [1639528309, 918128013]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/OtherProfileVC/OtherProfileVC.swift": !dirty [1673837182, 267868518]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/OtherProfileVC/UserStatusCCell.swift": !dirty [1671893448, 394068717]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/SelectIntrest/SelectIntrestViewController.swift": !dirty [1668616257, 97036838]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/SelectLanguageController.swift": !dirty [1667640859, 887652873]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/TabBarController.swift": !dirty [1672362219, 153137207]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/UserProfile/FollowContainer.swift": !dirty [1660402950, 680489540]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/UserProfile/FollowResultController.swift": !dirty [1671902511, 762149810]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/UserProfile/UserProfileController.swift": !dirty [1671891356, 19754409]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Dependencies/AppDelegate.swift": !dirty [1667630495, 861999988]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Dependencies/SceneDelegate.swift": !dirty [1639528309, 956981182]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProduct/BannerCCell.swift": !dirty [1648308732, 776207447]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProduct/EditProductViewController.swift": !dirty [1653135928, 694183826]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProductVariant/EditProductVariantVC.swift": !dirty [1653135793, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProductVariant/EditVariantTCell.swift": !dirty [1648320585, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Knet/KnetViewController.swift": !dirty [1667640469, 435576677]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/AddressItem.swift": !dirty [1652408203, 754340648]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/BidItem.swift": !dirty [1673574096, 268041133]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/CartItem.swift": !dirty [1675220054, 329963445]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/CartPurchaseData.swift": !dirty [1648903585, 795282363]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/Comment.swift": !dirty [1668645588, 374079227]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/Coupon.swift": !dirty [1639528309, 958267688]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/CreateItemVariant.swift": !dirty [1639528309, 958469867]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/ItemMedia.swift": !dirty [1639528309, 958587646]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/ItemPurchaseData.swift": !dirty [1648892999, 581940174]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/MyBiddingItem.swift": !dirty [1660222581, 866080760]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/OrderItem.swift": !dirty [1639528309, 958996295]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/PostItem.swift": !dirty [1673574072, 607311248]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/PurchasedPostItem.swift": !dirty [1667042995, 875235795]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/RegisterSellerInfo.swift": !dirty [1639528309, 959367275]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/TimeSlot.swift": !dirty [1639528309, 959553956]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/User.swift": !dirty [1667045039, 571360588]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/UserNotification.swift": !dirty [1644801966, 544339179]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/MyProductListing/MyProductListingTCell.swift": !dirty [1648434466, 794891834]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/MyProductListing/MyProductListingViewController.swift": !dirty [1653135814, 448373794]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/SelectionView/SelectionTCell.swift": !dirty [1597286083, 694414615]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/SelectionView/SelectionViewController.swift": !dirty [1661308610, 181404113]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/AppUser.swift": !dirty [1660908975, 862878799]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift": !dirty [1674277570, 97851514]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/SocketService.swift": !dirty [1660999161, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Terms/TermsViewController.swift": !dirty [1642906576, 404636621]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Text.swift": !dirty [1675222367, 247586965]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/AppUtility.swift": !dirty [1639528309, 960637092]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/CircularPulsatingView.swift": !dirty [1639528309, 960782051]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/CustomImageView.swift": !dirty [1665079244, 21904945]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Extensions.swift": !dirty [1666320947, 781497478]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/LocationHandler.swift": !dirty [1639528309, 961386919]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/PickerViewViewController.swift": !dirty [1641553836, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGCheckBox.swift": !dirty [1639528309, 961519241]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGImagePagingCell.swift": !dirty [1639528309, 961727857]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGImagePagingView.swift": !dirty [1639528309, 961893558]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGImageScrollPagingCell.swift": !dirty [1639528309, 962004899]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGPageDotCell.swift": !dirty [1653153516, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGPageDotView.swift": !dirty [1639528309, 962319850]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGLiveView.swift": !dirty [1639528309, 962441444]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGTextField.swift": !dirty [1639528309, 962589502]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/CollectionViewCell/IGStoryPreviewCell.swift"
+  : !dirty [1639528309, 963047981]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Common/IGCommon.swift": !dirty [1639528309, 963249444]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Common/IGConstants.swift": !dirty [1639528309, 963367938]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Common/IGRetryButton.swift": !dirty [1639528309, 963487148]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/Color+Additions.swift": !dirty [1639528309, 963731765]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/IGAdditions.swift": !dirty [1639528309, 963846683]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/ImageView+Additions.swift": !dirty [1639528309, 963963031]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/UIView+Extension.swift": !dirty [1639528309, 964076519]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/AnimatedCollectionViewLayout.swift"
+  : !dirty [1639528309, 964657783]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/CubeAttributesAnimator.swift"
+  : !dirty [1639528309, 964814186]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/LayoutAttributesAnimator.swift"
+  : !dirty [1639528309, 965016365]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/UIView+Anchor.swift"
+  : !dirty [1639528309, 965133666]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/Reachability/Reachability.swift"
+  : !dirty [1639528309, 965353012]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/IGPlayerView/IGPlayerView.swift": !dirty [1639528309, 965554237]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGCache.swift": !dirty [1639528309, 965729475]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGError.swift": !dirty [1639528309, 965918540]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGImageRequestable.swift": !dirty [1639528309, 966101646]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGResult.swift": !dirty [1639528309, 966239929]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGRoundedView.swift": !dirty [1639528309, 966451644]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGURLSession.swift": !dirty [1639528309, 966579198]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/UIImageView+Extension.swift"
+  : !dirty [1639528309, 966710090]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGSnap.swift": !dirty [1639528309, 966896533]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGStories.swift": !dirty [1639528309, 967022418]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGStory.swift": !dirty [1639528309, 967175006]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGUser.swift": !dirty [1639528309, 967296123]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryHeaderView & ProgressView/IGSnapProgressView.swift"
+  : !dirty [1639528309, 967519760]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryHeaderView & ProgressView/IGStoryPreviewHeaderView.swift"
+  : !dirty [1639528309, 967778205]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryPreview/IGStoryPreviewController.swift"
+  : !dirty [1639528309, 968196868]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryPreview/IGStoryPreviewModel.swift": !dirty [1639528309, 968358755]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryPreviewView/IGStoryPreviewView.swift"
+  : !dirty [1639528309, 968571901]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Stubs/IGMockLoader.swift": !dirty [1639528309, 968758583]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Video Cache/IGVideoCacheManager.swift": !dirty [1639528309, 968948364]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCell.swift": !dirty [1673574383, 317924022]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutAddressCell.swift": !dirty [1660701979, 408066034]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutDeliveryTimeCell.swift"
+  : !dirty [1652411409, 607238769]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutGetDiscountCell.swift"
+  : !dirty [1667649973, 60729503]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutHideMyPurchasesCell.swift"
+  : !dirty [1652411425, 278754949]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutOrderSummaryCell.swift"
+  : !dirty [1667039546, 89364290]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutPaymentMethodCell.swift"
+  : !dirty [1652411626, 613586187]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutPaymentMethodTypeCell.swift"
+  : !dirty [1652411094, 23452281]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutSelectAddressCell.swift"
+  : !dirty [1652411342, 313261508]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutTotalAmountCell.swift"
+  : !dirty [1667039279, 241937637]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/TimeSlotPicker/DeliveryTimeSlotCell.swift"
+  : !dirty [1639528310, 146054506]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/TimeSlotPicker/DeliveryTimeSlotPicker.swift"
+  : !dirty [1639528310, 146214008]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Comment/CommentCell.swift": !dirty [1668646988, 184989452]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Comment/CommentChildCell.swift": !dirty [1668648284, 261210441]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingCell/BIddingExpandedCell.swift": !dirty [1669746280, 595970630]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCell.swift": !dirty [1673574167, 461578369]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCellAddBidView.swift": !dirty [1648310819, 10433435]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveBiddersCell.swift": !dirty [1651935043, 420867919]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveCommentCell.swift": !dirty [1661912893, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveHighestBidderInfoView.swift": !dirty [1661911187, 36098957]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveNumberOfViewersView.swift": !dirty [1639528310, 148382663]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveProductInfoView.swift": !dirty [1651935043, 431679248]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayDescriptionCell.swift"
+  : !dirty [1649817181, 464837074]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayFooterView.swift": !dirty [1660615486, 514857292]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayPaymentCell.swift": !dirty [1661583556, 848425388]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayPaymentTypeCell.swift"
+  : !dirty [1660996437, 975250244]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayTotalAmountCell.swift"
+  : !dirty [1660615486, 527970314]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingStories/LiveListCell.swift": !dirty [1667043908, 969611167]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingStories/StoryListCell.swift": !dirty [1639528310, 149894952]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientInfoCell.swift"
+  : !dirty [1639528310, 150291919]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientInfoContainer.swift"
+  : !dirty [1639528310, 150444030]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientPriceCell.swift"
+  : !dirty [1639528310, 150636196]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientQuantityCell.swift"
+  : !dirty [1639528310, 150784492]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientView.swift"
+  : !dirty [1639528310, 150932788]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddVariantCell.swift"
+  : !dirty [1652323301, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddVariantInfoCell.swift"
+  : !dirty [1639528310, 151290655]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AttributePicker.swift"
+  : !dirty [1652323566, 724826335]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/XYZCell.swift": !dirty [1639528310, 151709079]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerBusinessTypeCell.swift"
+  : !dirty [1652322610, 442567825]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerRegisterCell.swift"
+  : !dirty [1652322231, 840199708]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerTextFieldCell.swift"
+  : !dirty [1652322583, 166965484]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerTnCCell.swift"
+  : !dirty [1652322678, 461079120]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerUploadLicenseCell.swift"
+  : !dirty [1652322659, 531589031]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/AuctionDurationPicker/AuctionDurationPicker.swift"
+  : !dirty [1639528310, 152920961]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/AuctionDurationPicker/AuctionDurationPickerCell.swift"
+  : !dirty [1639528310, 153196334]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CategoryPicker/CategoryPicker.swift"
+  : !dirty [1662603165, 597899675]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CategoryPicker/CategoryPickerCell.swift"
+  : !dirty [1652321739, 171225070]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateActionButtonCell.swift"
+  : !dirty [1652321482, 913938522]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateDescriptionCell.swift"
+  : !dirty [1666419980, 561048507]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateInitialPriceCell.swift"
+  : !dirty [1652321451, 950930595]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreatePhotos.swift": !dirty [1652320526, 680328369]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreatePhotosCell.swift": !dirty [1652320155, 990798473]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreatePriceCell.swift": !dirty [1652321371, 950122594]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateQuantityCell.swift"
+  : !dirty [1652320211, 236911058]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateSaleTypeCell.swift"
+  : !dirty [1672361444, 907273054]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateSelectCategoryCell.swift"
+  : !dirty [1652321769, 202319145]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateStartDateCell.swift"
+  : !dirty [1652321397, 362418174]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateStartDateDurationCell.swift"
+  : !dirty [1652321429, 357861518]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateTitleCell.swift": !dirty [1652321506, 300645351]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedCell.swift": !dirty [1671879233, 658631086]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedCell.swift": !dirty [1671879396, 508763313]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedVarientCell.swift": !dirty [1647685802, 863120555]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedVarientContainer.swift": !dirty [1665541659, 359299182]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedVarientView.swift": !dirty [1665541723, 603185415]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/ForwardMessagePicker/ForwardMessagePicker.swift"
+  : !dirty [1650182343, 299891948]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/ForwardMessagePicker/ForwardMessagePickerCell.swift"
+  : !dirty [1651935043, 496421575]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/AddressCell.swift": !dirty [1652408899, 748846292]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/AddressDetailsAddAddressCell.swift"
+  : !dirty [1639528310, 157261371]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/ContactInfoAddAddressCell.swift"
+  : !dirty [1639528310, 157435894]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/TypeOfAddressAddAddressCell.swift"
+  : !dirty [1639528310, 157584905]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Bidding/BiddingLostCell.swift"
+  : !dirty [1660223283, 936478137]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Bidding/BiddingOnGoingCell.swift"
+  : !dirty [1662688257, 200155258]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Bidding/BiddingWonCell.swift"
+  : !dirty [1663417843, 555329084]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderCell.swift": !dirty [1660223397, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailAddressCell.swift"
+  : !dirty [1652408187, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailItemsCell.swift"
+  : !dirty [1672363577, 902798414]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailItemsContainer.swift"
+  : !dirty [1652408369, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailStatusCell.swift"
+  : !dirty [1653118527, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailSummaryCell.swift"
+  : !dirty [1672363765, 908138990]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletCell.swift": !dirty [1660223097, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletStretchyHeaderView.swift"
+  : !dirty [1652405947, 0]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferAmountCell.swift"
+  : !dirty [1660907798, 236014366]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferBankTransferCell.swift"
+  : !dirty [1652406505, 38098573]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferConfirmCell.swift"
+  : !dirty [1652406494, 500169754]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferIBANCell.swift"
+  : !dirty [1652406505, 25563716]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferSummaryCell.swift"
+  : !dirty [1661911187, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/ProfileCell.swift": !dirty [1674528094, 255758523]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/ProfileUserInfo.swift": !dirty [1652325867, 461167097]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+  : !dirty [1669749193, 899189233]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerAuctionsCell.swift"
+  : !dirty [1652410127, 548484086]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerEarningCell.swift"
+  : !dirty [1652410219, 646737337]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerLiveAuctionsCell.swift"
+  : !dirty [1652410268, 215584993]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerMyProductsCell.swift"
+  : !dirty [1652410238, 623029708]
+  ? "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerProductOrdersCell.swift"
+  : !dirty [1652410096, 664061784]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Search/ExploreCell.swift": !dirty [1665078753, 346045970]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Search/SearchProductResultsCell.swift": !dirty [1652319632, 337495803]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Search/SearchUserResultsCell.swift": !dirty [1653149156, 0]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/MessageCell.swift": !dirty [1639528310, 162149429]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/MyAuctions/MyAuctionCompletedCell.swift": !dirty [1661911186, 959360122]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/MyAuctions/MyAuctionsOnGoingCell.swift": !dirty [1661911186, 980622291]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Notification/NotificationActivityCell.swift": !dirty [1644801564, 300584554]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Notification/NotificationRequestCell.swift": !dirty [1639528310, 163171529]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileActionButtonsCell.swift": !dirty [1671890704, 64303398]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileInfoCell.swift": !dirty [1671892187, 459002494]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileItemsContainerCell.swift": !dirty [1668645404, 276479005]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileProductItems.swift": !dirty [1671898234, 122532844]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfilePurchasedItems.swift": !dirty [1671764141, 159722566]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileStatsCell.swift": !dirty [1652324813, 21522045]
+  "/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileStatsContainerCell.swift": !dirty [1660403222, 11851310]

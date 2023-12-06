@@ -1,0 +1,14 @@
+<svg id="btn-send" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8fe6c6"/>
+      <stop offset="1" stop-color="#6dc5d3"/>
+    </linearGradient>
+  </defs>
+  <circle id="BG" cx="18" cy="18" r="18" fill="url(#linear-gradient)"/>
+  <g id="right-arrow" transform="translate(11 -5.021)">
+    <g id="Group_683" data-name="Group 683" transform="translate(0 16.02)">
+      <path id="Path_10940" data-name="Path 10940" d="M14.629,22.47.758,16.068a.536.536,0,0,0-.638.149.531.531,0,0,0-.013.655l4.561,6.082L.107,29.036a.533.533,0,0,0,.65.8l13.871-6.4a.533.533,0,0,0,0-.969Z" transform="translate(0 -16.02)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

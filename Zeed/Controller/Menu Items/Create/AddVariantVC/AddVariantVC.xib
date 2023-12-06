@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AddVariantVC" customModule="Zeed" customModuleProvider="target">
+            <connections>
+                <outlet property="btnAddNew" destination="3iw-03-H8m" id="F3U-yn-k8o"/>
+                <outlet property="btnDone" destination="XZz-Yb-3Vg" id="4xL-xE-M4J"/>
+                <outlet property="tblVariant" destination="5wC-cr-D9u" id="n3r-WR-aLb"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="5wC-cr-D9u">
+                    <rect key="frame" x="10" y="10" width="300" height="493"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="uBd-es-0Eb"/>
+                        <outlet property="delegate" destination="-1" id="WYZ-hu-Zvr"/>
+                    </connections>
+                </tableView>
+                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="WPh-TU-Ls7">
+                    <rect key="frame" x="10" y="513" width="300" height="45"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3iw-03-H8m">
+                            <rect key="frame" x="0.0" y="0.0" width="145" height="45"/>
+                            <color key="backgroundColor" red="0.0" green="0.49019607840000001" blue="0.64705882349999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="16"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="Add New Variant">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="btnAddNewVariantClick:" destination="-1" eventType="touchUpInside" id="ufI-tl-QyR"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XZz-Yb-3Vg">
+                            <rect key="frame" x="155" y="0.0" width="145" height="45"/>
+                            <color key="backgroundColor" red="0.0" green="0.49019607840000001" blue="0.64705882349999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="45" id="3gR-p7-BLR"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="16"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="Done">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="btnDoneClick:" destination="-1" eventType="touchUpInside" id="3zn-DX-fhZ"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" red="0.96862745100000003" green="0.99215686270000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="5wC-cr-D9u" secondAttribute="trailing" constant="10" id="03c-OB-igD"/>
+                <constraint firstItem="WPh-TU-Ls7" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="10" id="3qS-w8-HXY"/>
+                <constraint firstItem="WPh-TU-Ls7" firstAttribute="top" secondItem="5wC-cr-D9u" secondAttribute="bottom" constant="10" id="4au-hj-esh"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="WPh-TU-Ls7" secondAttribute="bottom" constant="10" id="C4c-cA-sK8"/>
+                <constraint firstItem="5wC-cr-D9u" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="10" id="UEJ-ME-6ux"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="WPh-TU-Ls7" secondAttribute="trailing" constant="10" id="hvV-AR-aoB"/>
+                <constraint firstItem="5wC-cr-D9u" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="10" id="pAE-SQ-4fN"/>
+            </constraints>
+            <point key="canvasLocation" x="120" y="-32.74647887323944"/>
+        </view>
+    </objects>
+</document>

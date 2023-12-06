@@ -1,0 +1,293 @@
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Auth/SignUpController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/BiddingOnGoingController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/CircularPulsatingView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Comment/CommentCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEVideoConstraints.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/SettingViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/VideoView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/MyAuctions/MyAuctionsOnGoingCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/PickerViewViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyOrderDetailController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Notification/NotificationRequestsController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/TimeSlot.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayPaymentTypeCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/TimeSlotPicker/DeliveryTimeSlotCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreatePriceCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailAddressCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/MapviewViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/FileCenter.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Search/ExploreCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/CollectionViewCell/IGStoryPreviewCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/ContactInfoAddAddressCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateSaleTypeCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/BidItem.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/Coupon.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/ChatList/ChatListTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveProductInfoView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/MyBiddingController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGStory.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEVideoContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGError.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerAuctionsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/UIImageView+Extension.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchUserResultsController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/WSManage.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEEventsObserver.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveNumberOfViewersView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/AuctionDurationPicker/AuctionDurationPickerCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/CommentController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerProductOrdersCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailSummaryCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Extensions.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Home/SinglePostController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutDeliveryTimeCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/CartPurchaseData.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Comment/CommentChildCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/UserNotification.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGURLSession.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutAddressCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/MyAuctions/MyAuctionCompletedCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/AddAddressVC.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEVideoLayout.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProductVariant/EditProductVariantVC.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CategoryPicker/CategoryPickerCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Bidding/BiddingLostCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGPageDotCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreatePhotos.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/ChannelViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerTextFieldCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGImageRequestable.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileInfoCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerActionButtonCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AgoraExtension.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/LayoutAttributesAnimator.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingStories/StoryListCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryHeaderView & ProgressView/IGSnapProgressView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchProductsResultsController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryPreviewView/IGStoryPreviewView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedVarientContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutPaymentMethodTypeCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/ForwardMessagePicker/ForwardMessagePicker.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Search/SearchProductResultsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientPriceCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerTnCCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Common/IGConstants.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/WalletController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferConfirmCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/SettingsController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProductVariant/EditVariantTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/AddAddressController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/BiddingWonController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/MyAuctions/MyAuctionsContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGResult.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Stubs/IGMockLoader.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/IGAdditions.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutTotalAmountCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileStatsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/Color+Additions.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGCheckBox.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryHeaderView & ProgressView/IGStoryPreviewHeaderView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Search/SearchUserResultsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/StatisticsInfo.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/MyBiddingItem.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayPaymentCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/TimeSlotPicker/DeliveryTimeSlotPicker.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/Utility.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerEarningCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateStartDateDurationCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingStoryController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/CartItem.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyOrderController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayTotalAmountCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutOrderSummaryCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/SettingObject.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/MyAddressVC.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Bidding/BiddingOnGoingCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/CountryObject.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/CreateController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/FollowingListViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveCommentCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGUser.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGImagePagingCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/SelectIntrest/SelectIntrestViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGRoundedView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletStretchyHeaderView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/VideoSession.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ImageObject.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerUploadLicenseCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/ImageStorer/IGCache.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingThankyouController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/ProfileUserInfo.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/MyProductListing/MyProductListingTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/SocketService.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGSnap.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/SingleBiddingController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/SelectLanguageController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingPayController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/OrderItem.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Common/IGRetryButton.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/AddVariantVC/AddVariantVC.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayFooterView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailItemsContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/MyProductListing/MyProductListingViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatObject.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/SelectionView/SelectionTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/OtherProfileVC/OtherProfileVC.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Bidding/BiddingWonCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/CreateItemVariant.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/WalletTransferController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/CategoryCCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientInfoContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/ItemMedia.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateQuantityCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/UserObject.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/CubeAttributesAnimator.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/MyAddressController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveBiddersCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientQuantityCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileProductItems.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferIBANCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutSelectAddressCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Notification/NotificationRequestCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfilePurchasedItems.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutSelectAddressController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/TabBarController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateSelectCategoryCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferBankTransferCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/MessageCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/AddressItem.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutHideMyPurchasesCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/RegisterSellerInfo.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryPreview/IGStoryPreviewModel.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingOldLiveController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/MyAuctions/MyAuctionsCompletedController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Notification/NotificationActivityCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGLiveView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Notification/NotificationActivitiesController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/UploadImageObject.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/PostItem.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/SupportViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProduct/EditProductViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileItemsContainerCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/EditProduct/BannerCCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Dependencies/AppDelegate.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Knet/KnetViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/SelectionView/SelectionViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/AddVariantVC/AddVariantTCell/AddVariantTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferSummaryCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutGetDiscountCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/Comment.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/UserProfile/UserProfileController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/UserProfile/FollowResultController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Video Cache/IGVideoCacheManager.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatMessageTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerRegisterCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailItemsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/OtherProfileVC/UserStatusCCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/GroupViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/ProfileCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateDescriptionCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/AddressDetailsAddAddressCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/Wallet/WalletTransfer/WalletTransferAmountCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/IGPlayerView/IGPlayerView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/DimensionCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateStartDateCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/EditMyProfileController1.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/AppUtility.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreatePhotosCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Order/MyOrderDetailStatusCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/Settings.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/PurchasedPostItem.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Message/MessagesController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/ChatList/ChatListObject.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/SubcategoryController/SubcategoryController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/ExploreController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Dependencies/SceneDelegate.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Notification/NotificationContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/UserProfile/FollowContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGPageDotView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCheckoutController/CartCheckoutPaymentMethodCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/AnimatedCollectionViewLayout.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGImagePagingView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingLiveBiddersController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerLiveAuctionsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/SellerView/ProfileSellerMyProductsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/LikedViewedController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/AuctionDurationPicker/AuctionDurationPicker.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGTextField.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/AppUser.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Terms/TermsViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/SGImagePagingView/SGImageScrollPagingCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/MyBidding/BiddingLostController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/BecomeSellerController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/ProfileBuyerViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/BuyerView/My Address/SelectLocationController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddMoreVarient/AddMoreVarientInfoCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingLiveHighestBidderInfoView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddVariantInfoCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CategoryPicker/CategoryPicker.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/KAudioRecorder.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/AddressCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateTitleCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/MyAuctions/MyAuctionsOnGoingController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/EditMyProfileController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/SubcategoryController/SubCategoryTCell/SubCategoryTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingCell/BIddingExpandedCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/ItemPurchaseData.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Profile/BuyerView/My Address/TypeOfAddressAddAddressCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/MenuTCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingPay/BiddingPayDescriptionCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/XYZCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/AnimatedCollectionViewLayout/Source/UIView+Anchor.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AttributePicker.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Create/AddVariantController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/BecomeSellerController/BecomeSellerBusinessTypeCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/UIView+Extension.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/StoriesViewModel.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Model/User.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/ChatList/ChatListViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileStatsContainerCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Auth/SignInController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/TextCCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/External/Reachability/Reachability.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Home/HomeController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartThankyouController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Home/MediaViewerController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Text.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/SellerView/ProfileSellerViewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/StoryPreview/IGStoryPreviewController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Extension/ImageView+Additions.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedVarientCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/ForwardMessagePicker/ForwardMessagePickerCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/AGEVideoLay/AGEView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Models/IGStories.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCellAddBidView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/AddVarientController/AddVariantCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Search/SearchResultContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/MyProfileController.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Bidding/BiddingStories/LiveListCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/UserProfile/UserProfileActionButtonsCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingStories.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateInitialPriceCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Profile/ProfileContainer.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Cart/CartCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Create/CreateController/CreateActionButtonCell.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/Stories Source/Common/IGCommon.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/LocationHandler.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Utilities/CustomImageView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu Items/Home/FeedExpandedVarientView.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Agora/KeyCenter.swift
+/Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu Items/Bidding/BiddingLiveController.swift

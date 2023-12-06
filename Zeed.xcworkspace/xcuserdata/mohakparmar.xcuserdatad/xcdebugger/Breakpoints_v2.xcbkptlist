@@ -1,0 +1,2852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4627E5C-DDAF-4747-A643-259B2BA2E47C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC074E59-631A-48DB-8707-4D26942EDDBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/My Address/SelectLocationController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CED9C4D-8C04-4E4F-9C8D-236D056B476B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/EditMyProfileController1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "uploadImageToserver(imgage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CED9C4D-8C04-4E4F-9C8D-236D056B476B - a21aee4a960f8e4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; () in Zeed.EditMyProfileController1.uploadImageToserver(imgage: __C.UIImage) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/EditMyProfileController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "2CED9C4D-8C04-4E4F-9C8D-236D056B476B - a21aee4a960f8e4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; () in Zeed.EditMyProfileController1.uploadImageToserver(imgage: __C.UIImage) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/EditMyProfileController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "861">
+               </Location>
+               <Location
+                  uuid = "2CED9C4D-8C04-4E4F-9C8D-236D056B476B - a21aee4a960f8e4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; () in Zeed.EditMyProfileController1.uploadImageToserver(imgage: __C.UIImage) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/EditMyProfileController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "2CED9C4D-8C04-4E4F-9C8D-236D056B476B - a21aee4a960f8e4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; () in Zeed.EditMyProfileController1.uploadImageToserver(imgage: __C.UIImage) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/EditMyProfileController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "2CED9C4D-8C04-4E4F-9C8D-236D056B476B - a21aee4a960f8e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; () in Zeed.EditMyProfileController1.uploadImageToserver(imgage: __C.UIImage) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/EditMyProfileController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "2CED9C4D-8C04-4E4F-9C8D-236D056B476B - a21aee4a960f8e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; () in Zeed.EditMyProfileController1.uploadImageToserver(imgage: __C.UIImage) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/EditMyProfileController1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "365FFA09-0F6F-4923-A6B7-AEDA2AFD235C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Notification/NotificationActivitiesController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA76E123-091C-4EE3-99C2-737771A5AC88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Notification/NotificationActivitiesController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58AD8717-3E5F-4B32-B7C6-2BAB1853565B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1354"
+            endingLineNumber = "1354"
+            landmarkName = "uploadAuction(ofType:allImages:category:title:details:initialPrice:startDate:duration:itemSub:titleAr:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58AD8717-3E5F-4B32-B7C6-2BAB1853565B - 42a2b5bee264074a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.getAllNotification(count: Swift.Int, startRange: Swift.Int, completion: (Swift.Optional&lt;Swift.Array&lt;Zeed.GeneralNotification&gt;&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1354"
+                  endingLineNumber = "1354"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "58AD8717-3E5F-4B32-B7C6-2BAB1853565B - 8476f4079b3bbf4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Zeed.ItemMedia&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.Service.uploadAuction(ofType: Zeed.PostBaseType, allImages: Swift.Array&lt;__C.UIImage&gt;, category: Zeed.ItemCategory, title: Swift.String, details: Swift.String, initialPrice: Swift.Double, startDate: Foundation.Date, duration: Swift.Int, itemSub: Swift.Optional&lt;Zeed.ItemSubCategory&gt;, titleAr: Swift.String, completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1354"
+                  endingLineNumber = "1354"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21311FD5-ADFF-49BA-BB2E-85012ADFC7E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1589"
+            endingLineNumber = "1589"
+            landmarkName = "updatePostActiveStatus(forPostId:status:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21311FD5-ADFF-49BA-BB2E-85012ADFC7E7 - 111c91f890195c33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.fetchAllExplorePosts(all: Swift.Bool, isEngaged: Swift.Bool, count: Swift.Int, startRange: Swift.Int, categoryId: Swift.String, isPriceLowTohigh: Swift.Bool, isPriceSortNeeded: Swift.Bool, completion: (Swift.Optional&lt;Swift.Array&lt;Zeed.PostItem&gt;&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1589"
+                  endingLineNumber = "1589"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "21311FD5-ADFF-49BA-BB2E-85012ADFC7E7 - 127c73a776bf217c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.updatePostActiveStatus(forPostId: Swift.String, status: Swift.Bool, completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1589"
+                  endingLineNumber = "1589"
+                  offsetFromSymbolStart = "876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C51D5C5D-DD63-48F8-97E7-1E5585AB7532"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1586"
+            endingLineNumber = "1586"
+            landmarkName = "updatePostActiveStatus(forPostId:status:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C51D5C5D-DD63-48F8-97E7-1E5585AB7532 - 111c91f890195c50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.fetchAllExplorePosts(all: Swift.Bool, isEngaged: Swift.Bool, count: Swift.Int, startRange: Swift.Int, categoryId: Swift.String, isPriceLowTohigh: Swift.Bool, isPriceSortNeeded: Swift.Bool, completion: (Swift.Optional&lt;Swift.Array&lt;Zeed.PostItem&gt;&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1586"
+                  endingLineNumber = "1586"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "C51D5C5D-DD63-48F8-97E7-1E5585AB7532 - 127c73a776bf211f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.updatePostActiveStatus(forPostId: Swift.String, status: Swift.Bool, completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1586"
+                  endingLineNumber = "1586"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "C51D5C5D-DD63-48F8-97E7-1E5585AB7532 - 127c73a776bf211f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.updatePostActiveStatus(forPostId: Swift.String, status: Swift.Bool, completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1586"
+                  endingLineNumber = "1586"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9808098C-F636-49EE-A58B-C5A9EE9A0ACD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1592"
+            endingLineNumber = "1592"
+            landmarkName = "updatePostActiveStatus(forPostId:status:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9808098C-F636-49EE-A58B-C5A9EE9A0ACD - 111c91f890195c8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.fetchAllExplorePosts(all: Swift.Bool, isEngaged: Swift.Bool, count: Swift.Int, startRange: Swift.Int, categoryId: Swift.String, isPriceLowTohigh: Swift.Bool, isPriceSortNeeded: Swift.Bool, completion: (Swift.Optional&lt;Swift.Array&lt;Zeed.PostItem&gt;&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1592"
+                  endingLineNumber = "1592"
+                  offsetFromSymbolStart = "1356">
+               </Location>
+               <Location
+                  uuid = "9808098C-F636-49EE-A58B-C5A9EE9A0ACD - 127c73a776bf21c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.updatePostActiveStatus(forPostId: Swift.String, status: Swift.Bool, completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1592"
+                  endingLineNumber = "1592"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "9808098C-F636-49EE-A58B-C5A9EE9A0ACD - 127c73a776bf21c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.updatePostActiveStatus(forPostId: Swift.String, status: Swift.Bool, completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1592"
+                  endingLineNumber = "1592"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4821AA05-CDAC-4BCB-B27B-75FC2A946B2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Chat/Chat/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "connectSocket()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4821AA05-CDAC-4BCB-B27B-75FC2A946B2F - ea336d44060f8dec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "4821AA05-CDAC-4BCB-B27B-75FC2A946B2F - ea336d44060f8dec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "4821AA05-CDAC-4BCB-B27B-75FC2A946B2F - ea336d44060f8dec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "4821AA05-CDAC-4BCB-B27B-75FC2A946B2F - ea336d44060f8dec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85E38310-AEA6-4389-B191-28B5624F3414"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Chat/Chat/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "connectSocket()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85E38310-AEA6-4389-B191-28B5624F3414 - 7b8481c303bf5391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "281">
+               </Location>
+               <Location
+                  uuid = "85E38310-AEA6-4389-B191-28B5624F3414 - 7b8481c303bf5391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "345">
+               </Location>
+               <Location
+                  uuid = "85E38310-AEA6-4389-B191-28B5624F3414 - 7b8481c303bf5391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "85E38310-AEA6-4389-B191-28B5624F3414 - 7b8481c303bf5391"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.ChatViewController.connectSocket() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/Chat/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E88AA810-897E-423D-93F3-838E4C2778DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2604"
+            endingLineNumber = "2604"
+            landmarkName = "addPurchaseSuccesFailure(paymentId:isSuccess:dict:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E88AA810-897E-423D-93F3-838E4C2778DF - 3b9bd28e2bcab61d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.fetchMyOrders(completion: (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Zeed.OrderItem&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2604"
+                  endingLineNumber = "2604"
+                  offsetFromSymbolStart = "2044">
+               </Location>
+               <Location
+                  uuid = "E88AA810-897E-423D-93F3-838E4C2778DF - 7d90bb426c6abfb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.addPurchaseSuccesFailure(paymentId: Swift.String, isSuccess: Swift.Bool, dict: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2604"
+                  endingLineNumber = "2604"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E61F2A9-3058-4AC5-A990-641FEDC455C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "directBuy(postId:variantId:quantity:delivery_notes:deliveryAddressId:AddressId:deliveryTimeSlot:deliveryCharge:couponCode:couponAmount:paymentType:paymentMethod:amount:paymendId:isHidden:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E61F2A9-3058-4AC5-A990-641FEDC455C7 - 6c81a58824b27e84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.directBuy(postId: Swift.String, variantId: Swift.String, quantity: Swift.String, delivery_notes: Swift.String, deliveryAddressId: Swift.String, AddressId: Swift.String, deliveryTimeSlot: Swift.String, deliveryCharge: Swift.String, couponCode: Swift.String, couponAmount: Swift.String, paymentType: Swift.String, paymentMethod: Swift.Optional&lt;Zeed.CartCheckoutPaymentMethodTypes&gt;, amount: Swift.String, paymendId: Swift.String, isHidden: Swift.Bool, completion: (Swift.Bool, Swift.Optional&lt;Zeed.CartPurchaseBlock&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "255"
+                  endingLineNumber = "255"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "3E61F2A9-3058-4AC5-A990-641FEDC455C7 - 6c81a58824b27e67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.directBuy(postId: Swift.String, variantId: Swift.String, quantity: Swift.String, delivery_notes: Swift.String, deliveryAddressId: Swift.String, AddressId: Swift.String, deliveryTimeSlot: Swift.String, deliveryCharge: Swift.String, couponCode: Swift.String, couponAmount: Swift.String, paymentType: Swift.String, paymentMethod: Swift.Optional&lt;Zeed.CartCheckoutPaymentMethodTypes&gt;, amount: Swift.String, paymendId: Swift.String, isHidden: Swift.Bool, completion: (Swift.Bool, Swift.Optional&lt;Zeed.CartPurchaseBlock&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EA2F7A3-90F8-4B9D-970B-9C3368F8BDBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Chat/FollowingListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "handlePlus()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E42D5B2-816A-4B8A-BEF8-741695F234A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Chat/FollowingListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E42D5B2-816A-4B8A-BEF8-741695F234A9 - cddcb129f90d326b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.FollowingListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/FollowingListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "4E42D5B2-816A-4B8A-BEF8-741695F234A9 - cddcb129f90d326b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.FollowingListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/FollowingListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9107716B-D324-4B42-8CD4-167CF79BE31A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/My Address/MyAddressController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "configureUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B7827B3-2A9C-4808-B726-5D31824C183E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Auth/SignInController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "handleGuest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45170D0C-D06A-42A5-99D3-546255A542DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/TabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "openForGuestUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45170D0C-D06A-42A5-99D3-546255A542DD - f4b4b27519c1a72f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.TabBarController.openForGuestUser() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/TabBarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "45170D0C-D06A-42A5-99D3-546255A542DD - f4b4b27519c1a650"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.TabBarController.openForGuestUser() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/TabBarController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C46A234A-882C-46D3-8207-4F1448CD60B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Chat/FollowingListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "WSForGetFollowUserList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C46A234A-882C-46D3-8207-4F1448CD60B3 - 8a22dd3698594729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.FollowingListViewController.WSForGetFollowUserList() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/FollowingListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+               <Location
+                  uuid = "C46A234A-882C-46D3-8207-4F1448CD60B3 - 8a22dd3698594729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.FollowingListViewController.WSForGetFollowUserList() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Chat/FollowingListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D42D528-62EA-45CF-A8F9-FF9E13F53A4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/SocketService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "setUpListeners()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D42D528-62EA-45CF-A8F9-FF9E13F53A4A - 959f9c7cb02eb2ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.SocketService.setUpListeners() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/SocketService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "487">
+               </Location>
+               <Location
+                  uuid = "4D42D528-62EA-45CF-A8F9-FF9E13F53A4A - 959f9c7cb02eb2ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.SocketService.setUpListeners() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/SocketService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "599">
+               </Location>
+               <Location
+                  uuid = "4D42D528-62EA-45CF-A8F9-FF9E13F53A4A - 959f9c7cb02eb2ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.SocketService.setUpListeners() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/SocketService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "4D42D528-62EA-45CF-A8F9-FF9E13F53A4A - 959f9c7cb02eb2ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in Zeed.SocketService.setUpListeners() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/SocketService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB71F608-0969-41EB-886C-F0F27304ECD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/My Address/AddAddressController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC01D6BE-ACD0-49C6-866E-B7BC7BA95148"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "callRequetStatement()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC01D6BE-ACD0-49C6-866E-B7BC7BA95148 - 5fc1317f236e9fde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.ProfileSellerActionButtonCell.callRequetStatement() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "FC01D6BE-ACD0-49C6-866E-B7BC7BA95148 - 41019c7a37d99f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.ProfileSellerActionButtonCell.callRequetStatement() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "FC01D6BE-ACD0-49C6-866E-B7BC7BA95148 - 5fc1317f236e9fde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.ProfileSellerActionButtonCell.callRequetStatement() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FC01D6BE-ACD0-49C6-866E-B7BC7BA95148 - 41019c7a37d99f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.ProfileSellerActionButtonCell.callRequetStatement() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDC13F77-105D-4883-ABFF-8FC29BE3989E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "actionWithoutParam()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5586C7D-8C92-4B9D-945F-402900CD07E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/UserProfile/UserProfileItemsContainerCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38DD8D34-DC63-47E7-A1C9-48433657B72F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Bidding/BiddingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "450"
+            endingLineNumber = "450"
+            landmarkName = "presentStory1(forUser:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C80D2309-936E-48B3-B74E-A4603BF7AC05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Bidding/BiddingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "411"
+            endingLineNumber = "411"
+            landmarkName = "presentStory(forUser:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20EB2C86-646B-4401-A0B6-22333D204FA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Bidding/BiddingStories.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B22D4A0B-BA2E-4357-BE70-50CD590EF020"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Chat/Chat/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30922238-3D6D-42CE-962C-8DDAD4AC54E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "323"
+            endingLineNumber = "323"
+            landmarkName = "handleOptionTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53C474FC-CA9F-42B7-BE4E-EF5029DCAB72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "actionWithParam(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53C474FC-CA9F-42B7-BE4E-EF5029DCAB72 - 6898ba4cf27e7609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.ProfileSellerActionButtonCell.actionWithParam(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "53C474FC-CA9F-42B7-BE4E-EF5029DCAB72 - ab534417b9dde75c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.ProfileSellerActionButtonCell.actionWithParam(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "53C474FC-CA9F-42B7-BE4E-EF5029DCAB72 - 6898ba4cf27e7609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.ProfileSellerActionButtonCell.actionWithParam(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "53C474FC-CA9F-42B7-BE4E-EF5029DCAB72 - ab534417b9dde75c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.ProfileSellerActionButtonCell.actionWithParam(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Profile/SellerView/ProfileSellerActionButtonCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F0B0B36-5EA1-404F-B39F-ADF8CC23432F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/SellerView/ProfileSellerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBAC1A12-2491-45E4-9979-5DFDAE08A496"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/SellerView/ProfileSellerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBAC1A12-2491-45E4-9979-5DFDAE08A496 - 391a577720c30525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.ProfileSellerViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/SellerView/ProfileSellerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "909">
+               </Location>
+               <Location
+                  uuid = "CBAC1A12-2491-45E4-9979-5DFDAE08A496 - 6e34845005f219b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.ProfileSellerViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/SellerView/ProfileSellerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "CBAC1A12-2491-45E4-9979-5DFDAE08A496 - 391a577720c30525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.ProfileSellerViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/SellerView/ProfileSellerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "CBAC1A12-2491-45E4-9979-5DFDAE08A496 - 6e34845005f219b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.ProfileSellerViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/SellerView/ProfileSellerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B4EC247-D070-4F44-9FAC-4B4D83A4668D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/SellerView/ProfileSellerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Home/SinglePostController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "369"
+            endingLineNumber = "369"
+            landmarkName = "handleOptionsTapped(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 540cbf5920d4d85c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "350"
+                  endingLineNumber = "350"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 64e8488f5a652c32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #6 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 540cbf5920d4d85c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "350"
+                  endingLineNumber = "350"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 64e8488f5a652c32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #6 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 2cd5529fad0cede8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "369"
+                  endingLineNumber = "369"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 64e8488f5a652e41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #5 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "370"
+                  endingLineNumber = "370"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 540cbf5920d4dbe9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "369"
+                  endingLineNumber = "369"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "A57C6B72-2633-4F14-B689-DE817EAA0B7A - 64e8488f5a652e41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #6 (__C.UIAlertAction) -&gt; () in Zeed.SinglePostController.handleOptionsTapped(for: Zeed.FeedCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Home/SinglePostController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "370"
+                  endingLineNumber = "370"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D659968-4CB9-4F5A-819C-1EA81A65EDAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1089"
+            endingLineNumber = "1089"
+            landmarkName = "uploadSingleImage(image:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D659968-4CB9-4F5A-819C-1EA81A65EDAB - 79fd345f29a80e7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.getMedia(forMediaId: Swift.String, count: Swift.Int, startRange: Swift.Int, completion: (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Zeed.ItemMedia&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1089"
+                  endingLineNumber = "1089"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "1D659968-4CB9-4F5A-819C-1EA81A65EDAB - f6d29bf90d8d7554"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.uploadSingleImage(image: __C.UIImage, completion: (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Zeed.ItemMedia&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1089"
+                  endingLineNumber = "1089"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BA2DAB6-0401-4A17-8DC5-F0ECB12BE09A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Message/MessagesController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95F3B201-4BD4-44CE-958B-BEDFAD202D9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Home/SinglePostController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "init(forPost:isForSingleItem:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B4B4ECA-DCF9-42F8-A5DE-3104BDD6D1AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "487"
+            endingLineNumber = "487"
+            landmarkName = "configureCellForIsLive()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86DFE349-8195-4AE8-8792-9E034812BED5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "469"
+            endingLineNumber = "469"
+            landmarkName = "configureCellForIsLive()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3469344-A824-4386-8B26-076DD1E02CF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2519"
+            endingLineNumber = "2519"
+            landmarkName = "addPurchase(type:forPostId:amount:walletAmount:deliveryCharges:paymentType:purchaseType:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3469344-A824-4386-8B26-076DD1E02CF3 - 42dfafee15f1d8c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.addPurchaseSuccesFailureForCart(paymentId: Swift.String, isSuccess: Swift.Bool, dict: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2519"
+                  endingLineNumber = "2519"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+               <Location
+                  uuid = "A3469344-A824-4386-8B26-076DD1E02CF3 - a0b3134502ef86fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.addPurchase(type: Zeed.PostPurchaseType, forPostId: Swift.String, amount: Swift.Double, walletAmount: Swift.Double, deliveryCharges: Swift.Double, paymentType: Zeed.BiddingPayPaymentTypes, purchaseType: Swift.String, completion: (Swift.Bool, Swift.Optional&lt;Zeed.ItemPurchaseData&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2519"
+                  endingLineNumber = "2519"
+                  offsetFromSymbolStart = "1768">
+               </Location>
+               <Location
+                  uuid = "A3469344-A824-4386-8B26-076DD1E02CF3 - a0b3134502ef86fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.addPurchase(type: Zeed.PostPurchaseType, forPostId: Swift.String, amount: Swift.Double, walletAmount: Swift.Double, deliveryCharges: Swift.Double, paymentType: Zeed.BiddingPayPaymentTypes, purchaseType: Swift.String, completion: (Swift.Bool, Swift.Optional&lt;Zeed.ItemPurchaseData&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2519"
+                  endingLineNumber = "2519"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95253EE5-809D-4B2B-BE36-49E78BFBBE1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Bidding/SingleBiddingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "247"
+            endingLineNumber = "247"
+            landmarkName = "handleOptionsTapped(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95253EE5-809D-4B2B-BE36-49E78BFBBE1B - 8ad79b6fc46939bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+               <Location
+                  uuid = "95253EE5-809D-4B2B-BE36-49E78BFBBE1B - c5fb43427915d050"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "248"
+                  endingLineNumber = "248"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "95253EE5-809D-4B2B-BE36-49E78BFBBE1B - 8ad79b6fc46939bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "95253EE5-809D-4B2B-BE36-49E78BFBBE1B - c5fb43427915d050"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "248"
+                  endingLineNumber = "248"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38AEC395-6EDB-4925-B160-ECB2B70E163A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Bidding/SingleBiddingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "handleOptionsTapped(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38AEC395-6EDB-4925-B160-ECB2B70E163A - c5fb43427915d012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "250"
+                  endingLineNumber = "250"
+                  offsetFromSymbolStart = "287">
+               </Location>
+               <Location
+                  uuid = "38AEC395-6EDB-4925-B160-ECB2B70E163A - be895efcd78705f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "251"
+                  endingLineNumber = "251"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "38AEC395-6EDB-4925-B160-ECB2B70E163A - c5fb43427915d012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "250"
+                  endingLineNumber = "250"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "38AEC395-6EDB-4925-B160-ECB2B70E163A - be895efcd78705f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "251"
+                  endingLineNumber = "251"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3073D332-D74D-483E-AB55-80377B9F0FA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Bidding/SingleBiddingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "handleOptionsTapped(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3073D332-D74D-483E-AB55-80377B9F0FA8 - 8ad79b6fc469380f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "1496">
+               </Location>
+               <Location
+                  uuid = "3073D332-D74D-483E-AB55-80377B9F0FA8 - 338f15fd16fe6fa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "3073D332-D74D-483E-AB55-80377B9F0FA8 - 8ad79b6fc469380f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+               <Location
+                  uuid = "3073D332-D74D-483E-AB55-80377B9F0FA8 - 338f15fd16fe6fa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Zeed.SingleBiddingController.handleOptionsTapped(for: Zeed.BiddingCell) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Bidding/SingleBiddingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8FC0981-3678-44F5-B784-3EC932F408DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/SocketService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "markAsSold(forPostId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AE3A491-ADD4-48E6-A1EA-58DB4AF72E53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/MyProfileController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1A60550-AD23-4DA0-8851-E7A78E8A3E5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Search/SearchContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "handleCancel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAFF00EC-9D7E-43D6-9105-E4A1325D72AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Search/SearchProductsResultsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "isHighLow"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC2BFD5C-F23E-45CE-9471-4A3FF02A9FDA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Cart/CartCheckoutController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "558"
+            endingLineNumber = "558"
+            landmarkName = "didPressPay()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBC8E04E-8EFF-4F7A-A03C-A077FA949E08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/OtherProfileVC/OtherProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "addItemClick()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBC8E04E-8EFF-4F7A-A03C-A077FA949E08 - 24f8986579e56847"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.OtherProfileVC.addItemClick() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/OtherProfileVC/OtherProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "CBC8E04E-8EFF-4F7A-A03C-A077FA949E08 - 24f8986579e56847"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.OtherProfileVC.addItemClick() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/OtherProfileVC/OtherProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "CBC8E04E-8EFF-4F7A-A03C-A077FA949E08 - 24f8986579e568e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.OtherProfileVC.addItemClick() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/OtherProfileVC/OtherProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA9366B4-CCF1-493B-9538-7E91A97003E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Bidding/BiddingCell/BiddingCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "657"
+            endingLineNumber = "657"
+            landmarkName = "currentlySelectedIndex(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "825412F9-F447-42AE-930A-0CEF02D95DE0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Cart/CartCheckoutController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "546"
+            endingLineNumber = "546"
+            landmarkName = "didPressPay()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9707DC4B-9F0C-448D-898A-C8D2E785F248"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Cart/CartCheckoutController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "528"
+            endingLineNumber = "528"
+            landmarkName = "didPressPay()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3155164-1C69-45D1-9BF9-279824CDB362"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "300"
+            endingLineNumber = "300"
+            landmarkName = "directBuyForApplePay(paymentSuccess:deliveryCharge:paymentType:couponCode:couponAmount:paymentMethodId:isHidden:amount:deliveryTimeSlot:deliveryAddressId:delivery_notes:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3155164-1C69-45D1-9BF9-279824CDB362 - ffe0a5effd6e32a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.Service.loginUser(email: Swift.String, password: Swift.String, completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "E3155164-1C69-45D1-9BF9-279824CDB362 - 5d3f188d511fad5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in Zeed.Service.directBuyForApplePay(paymentSuccess: Swift.Bool, deliveryCharge: Swift.String, paymentType: Swift.String, couponCode: Swift.String, couponAmount: Swift.String, paymentMethodId: Swift.String, isHidden: Swift.Bool, amount: Swift.String, deliveryTimeSlot: Swift.String, deliveryAddressId: Swift.String, delivery_notes: Swift.String, completion: (Swift.Bool, Swift.Optional&lt;Zeed.CartPurchaseBlock&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Service/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B3C9F58-C590-4C8F-B704-F9BD95690FE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Cart/CartCheckoutController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "625"
+            endingLineNumber = "625"
+            landmarkName = "payWithApple(price:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B3C9F58-C590-4C8F-B704-F9BD95690FE5 - b6ebce76bbd605a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;MFSDK.MFPaymentStatusResponse, MFSDK.MFFailResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Result&lt;MFSDK.MFInitiateSessionResponse, MFSDK.MFFailResponse&gt;) -&gt; () in Zeed.CartCheckoutController.payWithApple(price: Swift.Double) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "618"
+                  endingLineNumber = "618"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "0B3C9F58-C590-4C8F-B704-F9BD95690FE5 - b6ebce76bbd60584"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;MFSDK.MFPaymentStatusResponse, MFSDK.MFFailResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Result&lt;MFSDK.MFInitiateSessionResponse, MFSDK.MFFailResponse&gt;) -&gt; () in Zeed.CartCheckoutController.payWithApple(price: Swift.Double) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "617"
+                  endingLineNumber = "617"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB6CC91F-2A10-4659-9B24-8338C1074F39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Cart/CartCheckoutController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "628"
+            endingLineNumber = "628"
+            landmarkName = "payWithApple(price:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB6CC91F-2A10-4659-9B24-8338C1074F39 - b6ebce76bbd605e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;MFSDK.MFPaymentStatusResponse, MFSDK.MFFailResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Result&lt;MFSDK.MFInitiateSessionResponse, MFSDK.MFFailResponse&gt;) -&gt; () in Zeed.CartCheckoutController.payWithApple(price: Swift.Double) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "620"
+                  endingLineNumber = "620"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "DB6CC91F-2A10-4659-9B24-8338C1074F39 - b6ebce76bbd605e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;MFSDK.MFPaymentStatusResponse, MFSDK.MFFailResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Result&lt;MFSDK.MFInitiateSessionResponse, MFSDK.MFFailResponse&gt;) -&gt; () in Zeed.CartCheckoutController.payWithApple(price: Swift.Double) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartCheckoutController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "620"
+                  endingLineNumber = "620"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E70BBFE-FA8E-4722-B76F-FD7C0B9AC3EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "directBuyForApplePay(paymentSuccess:deliveryCharge:paymentType:couponCode:couponAmount:paymentMethodId:isHidden:amount:deliveryTimeSlot:deliveryAddressId:delivery_notes:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D1E15FD-CF5C-437C-BC38-AF8CAF886B67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Service/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "directBuyForApplePay(paymentSuccess:deliveryCharge:paymentType:couponCode:couponAmount:paymentMethodId:isHidden:amount:deliveryTimeSlot:deliveryAddressId:delivery_notes:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BCAAD76-0E39-42DB-A6CE-0152C4BF4A67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7BCAAD76-0E39-42DB-A6CE-0152C4BF4A67 - f246cf7ff0437955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7BCAAD76-0E39-42DB-A6CE-0152C4BF4A67 - f246cf7ff04378d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "662A86DC-D316-45E5-A209-5B1236A0E00C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "662A86DC-D316-45E5-A209-5B1236A0E00C - 443b6b66e023a2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "662A86DC-D316-45E5-A209-5B1236A0E00C - 443b6b66e023a27d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "662A86DC-D316-45E5-A209-5B1236A0E00C - 443b6b66e023a2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBDBD215-F8F0-452F-838F-75D0F2B153AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Create/CreateController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1277"
+            endingLineNumber = "1277"
+            landmarkName = "didTapContinue()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBDBD215-F8F0-452F-838F-75D0F2B153AF - 9e5ba27d08bae4cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.CreateController.didTapContinue() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Create/CreateController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1278"
+                  endingLineNumber = "1278"
+                  offsetFromSymbolStart = "10204">
+               </Location>
+               <Location
+                  uuid = "DBDBD215-F8F0-452F-838F-75D0F2B153AF - 9e5ba27d08bae4ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.CreateController.didTapContinue() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Create/CreateController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1277"
+                  endingLineNumber = "1277"
+                  offsetFromSymbolStart = "9100">
+               </Location>
+               <Location
+                  uuid = "DBDBD215-F8F0-452F-838F-75D0F2B153AF - 77d8d6e41853e444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.CreateController.didTapContinue() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Create/CreateController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1278"
+                  endingLineNumber = "1278"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A75BD8B2-77C4-4F9F-A546-20F6C00E169B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Create/CreateController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1182"
+            endingLineNumber = "1182"
+            landmarkName = "didTapContinue()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A75BD8B2-77C4-4F9F-A546-20F6C00E169B - 9e5ba27d08bae8ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.CreateController.didTapContinue() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Create/CreateController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1182"
+                  endingLineNumber = "1182"
+                  offsetFromSymbolStart = "5404">
+               </Location>
+               <Location
+                  uuid = "A75BD8B2-77C4-4F9F-A546-20F6C00E169B - 9e5ba27d08bae8ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.CreateController.didTapContinue() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Create/CreateController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1182"
+                  endingLineNumber = "1182"
+                  offsetFromSymbolStart = "4736">
+               </Location>
+               <Location
+                  uuid = "A75BD8B2-77C4-4F9F-A546-20F6C00E169B - 391fa7542149d608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Zeed.CreateController.didTapContinue() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Create/CreateController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1183"
+                  endingLineNumber = "1183"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84727273-CE0C-4D71-97EF-95F4DFFA526C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Search/SearchContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "sortItemClick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D425197-60A9-4B3A-A5CC-A680ED4DADA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "347"
+            endingLineNumber = "347"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D425197-60A9-4B3A-A5CC-A680ED4DADA1 - f05ea019409705f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "5048">
+               </Location>
+               <Location
+                  uuid = "6D425197-60A9-4B3A-A5CC-A680ED4DADA1 - f05ea01940977afc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "365"
+                  endingLineNumber = "365"
+                  offsetFromSymbolStart = "5048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB031802-1D85-4F6D-9F93-EE37BF0D7B7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB031802-1D85-4F6D-9F93-EE37BF0D7B7E - f05ea019409705f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "5048">
+               </Location>
+               <Location
+                  uuid = "BB031802-1D85-4F6D-9F93-EE37BF0D7B7E - f05ea01940977afc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "365"
+                  endingLineNumber = "365"
+                  offsetFromSymbolStart = "5048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F831E97F-382B-499A-8775-493EEA4DAD89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F831E97F-382B-499A-8775-493EEA4DAD89 - f05ea019409705f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "5048">
+               </Location>
+               <Location
+                  uuid = "F831E97F-382B-499A-8775-493EEA4DAD89 - f05ea01940977afc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "365"
+                  endingLineNumber = "365"
+                  offsetFromSymbolStart = "5048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3352D93B-4088-4DB3-B5A8-3833612AE3C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Profile/BuyerView/PrivacyListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3352D93B-4088-4DB3-B5A8-3833612AE3C5 - d0676a358bdf3197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #6 () -&gt; () in Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "1708">
+               </Location>
+               <Location
+                  uuid = "3352D93B-4088-4DB3-B5A8-3833612AE3C5 - d0676a358bdf329f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #6 () -&gt; () in Zeed.PrivacyListViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Menu%20Items/Profile/BuyerView/PrivacyListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "315"
+                  endingLineNumber = "315"
+                  offsetFromSymbolStart = "1708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F2344CF-BEDE-4844-9A76-8D88CAB13CD3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/OtherProfileVC/OtherProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "512"
+            endingLineNumber = "512"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C5EC352-7A32-47C5-9A7D-3A9A4B6EF479"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/OtherProfileVC/OtherProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "522"
+            endingLineNumber = "522"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EEF71EB-9F04-4ED4-9A16-B6B276FA2A59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Cart/CartController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
+            landmarkName = "didUpdateQuantity(quantity:atIndexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C23C5239-92C4-44F1-BEBE-E5A53D731BAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Cart/CartController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "collectionView(_:editActionsForItemAt:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C23C5239-92C4-44F1-BEBE-E5A53D731BAD - f0f9b687b576cb4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwipeCellKit.SwipeAction, Foundation.IndexPath) -&gt; () in Zeed.CartController.collectionView(_: __C.UICollectionView, editActionsForItemAt: Foundation.IndexPath, for: SwipeCellKit.SwipeActionsOrientation) -&gt; Swift.Optional&lt;Swift.Array&lt;SwipeCellKit.SwipeAction&gt;&gt;"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "C23C5239-92C4-44F1-BEBE-E5A53D731BAD - f0f9b687b576cb4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwipeCellKit.SwipeAction, Foundation.IndexPath) -&gt; () in Zeed.CartController.collectionView(_: __C.UICollectionView, editActionsForItemAt: Foundation.IndexPath, for: SwipeCellKit.SwipeActionsOrientation) -&gt; Swift.Optional&lt;Swift.Array&lt;SwipeCellKit.SwipeAction&gt;&gt;"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/Controller/Cart/CartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37FD4DF9-487E-44BB-A427-926AD7D74FC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Create/CreateController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1168"
+            endingLineNumber = "1168"
+            landmarkName = "didTapContinue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9F1033F-6F86-4652-A2DF-47D3A305AB83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/Controller/Menu Items/Create/CreateController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1212"
+            endingLineNumber = "1212"
+            landmarkName = "didTapContinue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D2B8108-925C-41D7-9B58-11CA4DB57E72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zeed/View/Menu Items/Create/CreateController/CreateQuantityCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "didChangeQuantity()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D2B8108-925C-41D7-9B58-11CA4DB57E72 - c7bdae9a0eb2dcae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.CreateQuantityCell.didChangeQuantity() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Create/CreateController/CreateQuantityCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "9D2B8108-925C-41D7-9B58-11CA4DB57E72 - c7bdae9a0eb2dcae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.CreateQuantityCell.didChangeQuantity() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Create/CreateController/CreateQuantityCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "9D2B8108-925C-41D7-9B58-11CA4DB57E72 - c7bdae9a0eb2dcae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zeed.CreateQuantityCell.didChangeQuantity() -&gt; ()"
+                  moduleName = "Zeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohakparmar/Desktop/InfowareProjects/ZEED--IOS-Final/Zeed/View/Menu%20Items/Create/CreateController/CreateQuantityCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

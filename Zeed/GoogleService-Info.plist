@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1028576731227-gv30v8qrpg6p3i9bunn5pbfanjomqe5o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1028576731227-gv30v8qrpg6p3i9bunn5pbfanjomqe5o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1028576731227-19331lsls5i6qlb05mltq4j2ubaijbc2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxL94_ip3BmcomrSw9Mck8z1BhwoDHglM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1028576731227</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dm.Zeed</string>
+	<key>PROJECT_ID</key>
+	<string>thezeedapp-f4b7f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thezeedapp-f4b7f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1028576731227:ios:821bfc37fa84bd835ddf7e</string>
+</dict>
+</plist>

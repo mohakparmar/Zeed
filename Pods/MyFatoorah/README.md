@@ -1,0 +1,2 @@
+We have a complete walk-through for the MyFatoorah payment platform, with so many exciting ways of integration and an explanation of their features.
+[Click here to view the guide](https://myfatoorah.readme.io/docs/sdk-guide)
